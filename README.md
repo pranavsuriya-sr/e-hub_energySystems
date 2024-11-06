@@ -72,7 +72,7 @@ The user-friendly interface of Streamlit enhances accessibility, making these an
 ## 🌐 Live Demo
 
 - [GitHub Repository](https://github.com/pranavsuriya-sr/projES)
-- [Web Application](https://energysystems-pranavsuriya.streamlit.app/)
+- [Web Application](https://pranavsuriya-sr.github.io/e-hub_energySystems/)
 
 ## 🤝 Contributing
 
